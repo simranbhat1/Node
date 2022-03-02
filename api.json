@@ -1,0 +1,30 @@
+[
+    {
+        "is_success": true,
+        "user_id": "john_doe_17091999",
+        "email" : "john@xyz.com",
+        "roll_number":"ABCD123",
+        "numbers": ["1","334","4"],
+        "alphabets": ["A","R"],
+        "t_data":["1","334","4","A","R"]
+        },
+        {
+            "is_success": true,
+            "user_id": "john_doe_17091999",
+            "email" : "john@xyz.com",
+            "roll_number":"ABCD123",
+            "numbers": ["2","5","4","92"],
+            "alphabets": [],
+            "t_data":["2","4","5","92"]
+            },
+            
+                {
+                    "is_success": true,
+                    "user_id": "john_doe_17091999",
+                    "email" : "john@xyz.com",
+                    "roll_number":"ABCD123",
+                    "numbers": [],
+                    "alphabets": ["A","ABCD","DOE"],
+                    "t_data":["A","ABCD","DOE"]
+                    }
+]
